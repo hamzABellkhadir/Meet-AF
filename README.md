@@ -1,2 +1,93 @@
-# Meet-AF
-Meet Absence finder (Meet Af), you can use this extension to: - find people who are attending your live(Google meet) - extract the list of people attending your live - this extension targets teacher
+<h4 align="center">
+    <a href="#">
+        <img src="./img/popup/logo-descriptoin.png" alt="corona-cli" />
+    </a>
+    <br>
+    <br>
+
+Track your meeting / Absence student.
+
+[![DOWNLOADS](https://img.shields.io/npm/dt/corona-cli?label=DOWNLOADS%20%20%E2%9D%AF&colorA=007C92&colorB=007C92&style=flat)](#) [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@HAmzaBelkhadir%20%E2%86%92-gray.svg?colorA=007C92&colorB=007C92&style=flat)](https://github.com/hamzABellkhadir)
+
+</h4>
+
+<br>
+
+# HB Meet
+
+- 🤯 dowloading HB_Meet extension
+- 🗃️ tracking your student
+- 📈 make task __more easy__ for teacher (Absence registration)
+- 📟 By: hamza belkhadir, ENSET-M
+
+<br>
+
+[![📟](./img/popup/install.png)](./../../)
+
+## Install
+
+```sh
+# Install globally (recommended).
+go to google chrome store
+
+# HB_Meet.
+rechercher HB_Meet
+```
+<h4 align="center">
+    <a href="#">
+        <img src="./img/popup/videoGif02.gif" alt="Gif1" />
+    </a>
+</h4>
+
+<br>
+
+[![⚙️](./img/popup/usage.png)](./../../)
+
+## Usage
+
+### how use it?
+
+```sh
+# Enable extension.
+click in to button for enable mode 
+
+# Disable extension.
+click in to button for disabled mode
+
+# Badge counter.
+represent "number of students" assist in your meeting live in google meet
+```
+<h4 align="center">
+    <a href="#">
+        <img src="./img/popup/videoGif02.gif" alt="Gif1" />
+    </a>
+</h4>
+
+
+### input/output
+
+```sh
+# Click in to participants.
+scroll down at the same time "HB Meet" scan the names of all  participants
+
+# Attach your excel file.
+the excel file should have the "name" or "last name" property 
+
+# The result.
+into the excel file we add a property "date", and we specify "present(P) or absent(A)" students
+```
+
+<h4 align="center">
+<a href="#">
+        <img src="./img/gif/gif4 (1).gif" alt="Gif1" />
+</a>
+<br><br>
+<a href="#">
+        <img src="./img/gif/gif4 (3).gif" alt="Gif1" />
+</a>
+    <br><br>
+<a href="#">
+        <img src="./img/gif/gif4 (2).gif" alt="Gif1" />
+</a>
+</h4>
+
