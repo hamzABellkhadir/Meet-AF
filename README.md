@@ -76,18 +76,37 @@ the excel file should have the "name" or "last name" property
 # The result.
 into the excel file we add a property "date", and we specify "present(P) or absent(A)" students
 ```
+#### prepare your excel file that continent students list
 
-<h4 align="center">
+<h4 align="center" style="margin: 5px;">
 <a href="#">
-        <img src="./img/gif/gif4 (1).gif" alt="Gif1" />
+        <img src="./img/gif/gif (0).gif" alt="Gif1" />
 </a>
-<br><br>
+</h4>
+
+#### the badge represents number of selected students
+
+<h4 align="center" style="margin: 5px;">
 <a href="#">
-        <img src="./img/gif/gif4 (3).gif" alt="Gif1" />
+        <img src="./img/gif/gif (1).gif" alt="Gif1" />
 </a>
-    <br><br>
+</h4>
+
+
+
+### choose your prepared file, and automatically we have prepared the new excel file, which contains the list of absences students
+
+<h4 align="center" style="margin: 5px;">
 <a href="#">
-        <img src="./img/gif/gif4 (2).gif" alt="Gif1" />
+        <img src="./img/gif/gif (2).gif" alt="Gif1" />
+</a>
+</h4>
+
+### repeating gets the same results but adding another column with another date
+
+<h4 align="center" style="margin: 5px;">
+<a href="#">
+        <img src="./img/gif/gif (3).gif" alt="Gif1" />
 </a>
 </h4>
 
