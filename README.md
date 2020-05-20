@@ -7,7 +7,7 @@
 
 Track your meeting / Absence student.
 
-[![DOWNLOADS](https://img.shields.io/npm/dt/corona-cli?label=DOWNLOADS%20%20%E2%9D%AF&colorA=007C92&colorB=007C92&style=flat)](#) [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@HAmzaBelkhadir%20%E2%86%92-gray.svg?colorA=007C92&colorB=007C92&style=flat)](https://github.com/hamzABellkhadir)
+[![DOWNLOADS](https://img.shields.io/npm/dt/corona-cli?label=DOWNLOADS%20%20%E2%9D%AF&colorA=007C92&colorB=007C92&style=flat)](https://chrome.google.com/webstore/detail/meet-af/iealggobnacdkcgfkfcfmbbjjigieggp) [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@HAmzaBelkhadir%20%E2%86%92-gray.svg?colorA=007C92&colorB=007C92&style=flat)](https://github.com/hamzABellkhadir)
 
 </h4>
 
@@ -35,7 +35,7 @@ rechercher HB_Meet
 ```
 <h4 align="center">
     <a href="#">
-        <img src="./img/popup/videoGif02.gif" alt="Gif1" />
+        <img src="./img/gif/intro.gif" alt="Gif1" />
     </a>
 </h4>
 
